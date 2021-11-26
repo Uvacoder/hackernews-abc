@@ -9,7 +9,7 @@
           {{ list.title }}
         </router-link>
         <a class="github" href="https://github.com/nuxt/hackernews" target="_blank" rel="noopener banner">
-          Built with Nuxt.js
+          Built with abc Nuxt.js
         </a>
       </nav>
     </header>
