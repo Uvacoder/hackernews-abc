@@ -8,8 +8,8 @@
         <router-link v-for="(list, key) in feeds" :key="key" :to="`/${key}`">
           {{ list.title }}
         </router-link>
-        <a class="github" href="https://github.com/nuxt/hackernews" target="_blank" rel="noopener banner">
-          Built with abc Nuxt.js
+        <a class="github" href="https://github.com/uvacoder/hackernews-abc" target="_blank" rel="noopener banner">
+          Built with Nuxt.js
         </a>
       </nav>
     </header>
